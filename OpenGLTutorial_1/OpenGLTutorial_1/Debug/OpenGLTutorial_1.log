@@ -1,0 +1,12 @@
+﻿  Camera.cpp
+c:\program1\opengl\opengltutorial_1\opengltutorial_1\camera.h(50): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\program1\opengl\opengltutorial_1\opengltutorial_1\camera.h(56): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\program1\opengl\opengltutorial_1\opengltutorial_1\camera.h(57): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\program1\opengl\opengltutorial_1\opengltutorial_1\camera.h(142): warning C4305: '+=': truncation from 'double' to 'float'
+c:\program1\opengl\opengltutorial_1\opengltutorial_1\camera.h(143): warning C4305: '+=': truncation from 'double' to 'float'
+c:\program1\opengl\opengltutorial_1\opengltutorial_1\camera.h(151): warning C4305: '-=': truncation from 'double' to 'float'
+c:\program1\opengl\opengltutorial_1\opengltutorial_1\camera.h(152): warning C4305: '-=': truncation from 'double' to 'float'
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  OpenGLTutorial_1.vcxproj -> C:\Program1\OpenGL\OpenGLTutorial_1\Debug\OpenGLTutorial_1.exe
